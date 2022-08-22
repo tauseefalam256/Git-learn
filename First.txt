@@ -1,1 +1,7 @@
 This is the first file.
+
+Added
+
+Some thing 
+
+New
